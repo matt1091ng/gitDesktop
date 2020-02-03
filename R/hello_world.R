@@ -15,3 +15,7 @@ foo()
 foo2()
 suppressMessages(foo())
 suppressMessages(foo2())
+
+## On Slack we ran:
+# /github subscribe matt1091ng/gitDesktop
+## twice (had to authorize the first time)
